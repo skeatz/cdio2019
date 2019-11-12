@@ -6,7 +6,7 @@
   * [Global Community](https://fablabs.io/labs/map)
 * [Fab Foundation](https://www.fabfoundation.org/)
   * [Fablab Network](https://www.fabfoundation.org/global-community/), [Fablabs.io](https://www.fabfoundation.org/global-community/#fablab-map)
-  * Fab Education ([Academany](http://academany.org/)
+  * Fab Education ([Academany](http://academany.org/))
     * [Fab Academy](http://academany.org/fabacademy/), [accreditations](http://fabacademy.org/about/accreditations.html)
     * [Bio Academy](http://bio.academany.org/)
     * [Fabricademy](https://textile-academy.org/bootcamp/)
