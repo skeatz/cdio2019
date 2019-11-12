@@ -26,11 +26,11 @@
     * [Fablab Equipment](https://fablabs.io/machines)
   * Knowledge (Specialists)
     * [Fab Academy Recitations](http://fab.academany.org/2019/schedule.html)
-      * Super Guru: [Neil](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
-      * Git/Version Control: [Fiore](https://it.linkedin.com/in/fibasile)
-      * Machine Building: [Nadya](https://www.hcde.washington.edu/peek), [Jens](https://fab13.sched.com/artist/jens_dyvik.1wvd766e)
-      * Senior Instructors/Gurus
-      * Local Instructors
+    * Super Guru: [Neil](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
+    * Git/Version Control: [Fiore](https://it.linkedin.com/in/fibasile)
+    * Machine Building: [Nadya](https://www.hcde.washington.edu/peek), [Jens](https://fab13.sched.com/artist/jens_dyvik.1wvd766e)
+    * Senior Instructors/Gurus
+    * Local Instructors
   * [Training Material](http://fab.academany.org/2019/schedule.html)
 * Students' Learning Experiences
   * Area of Technology: [Almost Everything](http://fabacademy.org/about/program.html)
