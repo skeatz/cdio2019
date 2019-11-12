@@ -28,7 +28,7 @@
     * [Fab Academy Recitations](http://fab.academany.org/2019/schedule.html)
     * Super Guru: [Neil](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
     * Git/Version Control: [Fiore](https://it.linkedin.com/in/fibasile)
-    * Machine Building: [Nadya](https://www.hcde.washington.edu/peek), [Jens](https://fab13.sched.com/artist/jens_dyvik.1wvd766e)
+    * Machine Building: [Nadya](https://www.hcde.washington.edu/peek), [Jens](https://fab13.sched.com/artist/jens_dyvik.1wvd766e), [Daniele](https://www.fablabs.io/users/satsha)
     * Senior Instructors/Gurus
     * Local Instructors
   * [Training Material](http://fab.academany.org/2019/schedule.html)
